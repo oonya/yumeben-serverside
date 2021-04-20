@@ -1,0 +1,52 @@
+{
+    "all_datas": {
+        "red" : [
+            {
+                "id": 1,
+                "title": "にんじん焼き",
+                "rgb": [255, 0, 0],
+                "materials" : ["ニンジン", "パプリカ"],
+                "url": "http://carrot.com"
+            },
+            {
+                "id" : 2,
+                "title" : "赤パプリカの炒め",
+                "rgb" : [255, 0, 0],
+                "materials" : ["ニンジン", "パプリカ"],
+                "url" : "http://redpapurika.com"
+            }
+        ],
+        "green" : [
+            {
+                "id": 3,
+                "title": "ピーマン焼き",
+                "rgb": [0, 255, 0],
+                "materials" : ["ニンジン", "パプリカ"],
+                "url": "http://pimento.com" 
+            },
+            {
+                "id": 4,
+                "title": "キャベツ炒め",
+                "rgb": [0, 255, 0],
+                "materials" : ["ニンジン", "パプリカ"],
+                "url": "http://cabbage.com" 
+            }
+        ],
+        "yellow" : [
+            {
+                "id": 5,
+                "title": "黄パプリカの炒め",
+                "rgb": [255, 255, 0],
+                "materials" : ["ニンジン", "パプリカ"],
+                "url": "http://yellowpapurika.com" 
+            },
+            {
+                "id" : 6,
+                "title" : "かぼちゃの煮物",
+                "rgb" : [255, 255, 0],
+                "materials" : ["ニンジン", "パプリカ"],
+                "url" : "http://kabotya.com"
+            }
+        ]
+    }
+}

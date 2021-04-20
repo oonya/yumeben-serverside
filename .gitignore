@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+reserve.py
+confirmatoin_mongo.py
+usei2v.py
+.envrc

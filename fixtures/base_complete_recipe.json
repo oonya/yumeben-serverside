@@ -1,0 +1,11 @@
+{
+    "uuid" : "",
+    "recipeId" : "",
+    "image" : "dammy.jpg",
+    "mainRecipes" : [],
+    "subRecipes" : {
+        "meat" : [],
+        "vegetable" : {}
+    },
+    "useAllMaterials" : []
+}

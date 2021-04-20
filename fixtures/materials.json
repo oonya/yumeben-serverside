@@ -1,0 +1,57 @@
+{
+    "all_datas": {
+        "meat" : [
+            {
+                "id": 1,
+                "title": "豚肉焼き",
+                "materials": ["豚肉", "醤油"],
+                "image" : "byteString",
+                "url": "http://meat.com"
+            },
+            {
+                "id": 2,
+                "title": "生姜焼き",
+                "materials": ["豚肉", "生姜"],
+                "image" : "byteString",
+                "url": "http://shoga.com"
+            },
+            {
+                "id": 3,
+                "title": "アスパラの肉巻き",
+                "materials": ["牛肉", "アスパラ"],
+                "image" : "byteString",
+                "url": "http://nikumaki.com"
+            },
+            {
+                "id": 4,
+                "title": "魚の水煮",
+                "materials": ["サバ","水"],
+                "image" : "byteString",
+                "url": "http://fish.com"
+            }
+        ],
+        "vegetable" : [
+            {
+                "id": 1,
+                "title": "レタス炒め",
+                "materials": ["レタス","塩"],
+                "image" : "byteString",
+                "url": "http://lettuce.co"
+            },
+            {
+                "id": 2,
+                "title": "ほうれん草のお浸し",
+                "materials": ["ほうれん草","醤油"],
+                "image" : "byteString",
+                "url": "http://horenso.co"
+            },
+            {
+                "id": 3,
+                "title": "パプリカ揚げ",
+                "materials": ["パプリカ","塩"],
+                "image" : "byteString",
+                "url": "http://paprika.com"
+            }
+        ]
+    }
+}

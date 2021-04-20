@@ -1,0 +1,38 @@
+{
+    "recipe" : {
+        "recipeId" : 1,
+        "mainRecipes" : [
+            {"title" : "カボチャに煮つけ", "url" : "https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01", "rgb" : [255,255,0]},
+            {"title" : "パプリカのキンピラ", "url" : "https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01", "rgb" : [255,0,0]},
+            {"title" : "ほうれん草のお浸し", "url" : "https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01", "rgb" : [0,255,0]}
+        ],
+        "subRecipes" : {
+            "meat" : [
+                {
+                    "id": 1,
+                    "title": "豚肉焼き",
+                    "materials": ["豚肉", "醤油"],
+                    "image" : "byteString",
+                    "url": "https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01"
+                },
+                {
+                    "id": 2,
+                    "title": "生姜焼き",
+                    "materials": ["豚肉", "生姜"],
+                    "image" : "byteString",
+                    "url": "https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01"
+                }
+            ],
+            "vegetable" : {
+                "id": 1,
+                "title": "レタス炒め",
+                "materials": ["レタス","塩"],
+                "image" : "byteString",
+                "url": "https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01"
+            }
+        },
+        "useAllMaterials" : [
+            "カボチャ", "パプリカ", "ほうれん草", "豚肉", "醤油", "生姜", "レタス", "塩"
+        ]
+    }
+}
